@@ -4,7 +4,7 @@ This repository contains the target AWS architecture design for the EventXGames 
 
 ## Contents
 
-- [AWS_ARCHITECTURE.md](./AWS_ARCHITECTURE.md) - Complete architecture document
+- [AWS_ARCHITECTURE.md](./docs/AWS_ARCHITECTURE.md) - Complete architecture document
 
 ## Architecture Overview
 
